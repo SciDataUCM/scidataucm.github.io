@@ -2,4 +2,4 @@
 name: SciDataUCM
 url: https://scidataucm.github.io/
 description: UCM data science passionate students organization SciData
-theme: jekyll-theme-minimal
+remote_theme: ed
