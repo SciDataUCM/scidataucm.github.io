@@ -9,9 +9,9 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Alberto Pastor
   pic: 1
-  position: Lead Designer
+  position: Co-Founder
   social:
     - title: twitter
       url: #
@@ -20,16 +20,16 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Ivan Fermena
   pic: 2
-  position: Lead Marketer
+  position: Co-Founder
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: #https://twitter.com/ivanf3rmena
+    - title: GitHub
+      url: #https://github.com/ivanfermena
     - title: linkedin
-      url: #
+      url: #https://www.linkedin.com/in/ivanfermena/
 
 - name: Diana Petersen
   pic: 3
