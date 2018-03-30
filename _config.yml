@@ -25,11 +25,11 @@ people:
   position: Co-Founder
   social:
     - title: twitter
-      url: #https://twitter.com/ivanf3rmena
-    - title: GitHub
-      url: #https://github.com/ivanfermena
+      url: https://twitter.com/ivanf3rmena
+    - title: github
+      url: https://github.com/ivanfermena
     - title: linkedin
-      url: #https://www.linkedin.com/in/ivanfermena/
+      url: https://www.linkedin.com/in/ivanfermena/
 
 - name: Diana Petersen
   pic: 3
