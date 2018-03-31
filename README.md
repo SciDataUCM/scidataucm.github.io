@@ -1,30 +1,32 @@
-Agency Jekyll theme
+SciDataUCM website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Using [jekyll](https://jekyllrb.com/) with [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-# How to use
+## How to run locally
 
-###Portfolio 
+Run [this tutorial](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#step-2-install-jekyll-using-bundler) to try the website locally.
 
-Portfolio projects are in '/_posts'
+## Data-Science management
+
+Data-Science information is at '/_includes/services.html'
+
+## Projects management 
+
+Projects information files are in '/_posts'
 
 Images are in '/img/portfolio'
 
-###About
+To add a new project you have to add new Markdown file at '/_posts' with the following name structure: `YYYY-MM-DD-title`
 
-Images are in '/img/about/'
+## SciData-Founders management
 
-###Team
-
-Team members and info are in '_config.yml'
+Team members information is at '_config.yml'
 
 Images are in '/img/team/'
 
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+
+'/_include/', this folder contains every html file launched at the website, all linked from  '/_laouts/default.html'
+
+For more details about jekyll, read [documentation](http://jekyllrb.com/)
