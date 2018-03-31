@@ -146,6 +146,13 @@ fieldset[disabled] .btn-primary.active {
     background-image: none;
 }
 
+.imgRedonda {
+    width:2em;
+    height:2em;
+    border-radius:160px;
+    border:10px solid #666;
+}
+
 .btn-xl.disabled,
 .btn-xl[disabled],
 fieldset[disabled] .btn-xl,
