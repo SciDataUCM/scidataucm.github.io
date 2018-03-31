@@ -25,7 +25,7 @@ Team members information is at '_config.yml'
 
 Images are in '/img/team/'
 
-=========
+-----------------------------------------
 
 '/_include/', this folder contains every html file launched at the website, all linked from  '/_laouts/default.html'
 
