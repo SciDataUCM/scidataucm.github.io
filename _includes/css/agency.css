@@ -150,7 +150,8 @@ fieldset[disabled] .btn-primary.active {
     width:2em;
     height:2em;
     border-radius:160px;
-    border:10px solid #666;
+    border:6px solid #666;
+    margin-bottom: 15px;
 }
 
 .btn-xl.disabled,
