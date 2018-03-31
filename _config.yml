@@ -50,12 +50,10 @@ people:
 social:
   - title: twitter
     url: https://twitter.com/scidataucm
-  - title: facebook
-    url: 
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/scidataucm/
+  - title: envelope
+    url: mailto:scidataucm@gmail.com
   - title: github
     url: https://github.com/SciDataUCM
 
