@@ -13,6 +13,8 @@ people:
   pic: 1
   position: Co-Founder
   social:
+    - title: globe
+      url: https://albertopastormr.me
     - title: twitter
       url: https://twitter.com/albertopastormr
     - title: github
