@@ -3,8 +3,8 @@ baseurl: ""
 
 # Site settings
 title: SciDataUCM
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: scidataucm@gmail.com
+description: "Computer Science university students organization with a passion for data science"
 
 
 # Team names, titles and social links
@@ -14,11 +14,15 @@ people:
   position: Co-Founder
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/albertopastormr
+    - title: github
+      url: https://github.com/albertopastormr
+    - title: linkedin
+      url: https://www.linkedin.com/in/albertopastormr/
+    - title: email
+      url: mailto:albertopastormr@gmail.com
+    - title: instagram
+      url: https://www.instagram.com/pastoreo11/
 
 - name: Ivan Fermena
   pic: 2
@@ -36,18 +40,18 @@ people:
   position: Lead Developer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/
+    - title: github
+      url: https://github.com/
+    - title: linkedin
+      url: https://www.linkedin.com/in/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/scidataucm
   - title: facebook
-    url:
+    url: 
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
@@ -57,8 +61,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Calle del Profesor José García Santesmases 9
+  - line: 28040 Madrid
 
 # Build settings
 markdown: kramdown
