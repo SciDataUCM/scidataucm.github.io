@@ -13,16 +13,18 @@ people:
   pic: 1
   position: Co-Founder
   social:
+    - title: globe
+      url: https://albertopastormr.me
+    - title: envelope
+      url: mailto:albertopastormr@gmail.com
     - title: twitter
       url: https://twitter.com/albertopastormr
     - title: github
       url: https://github.com/albertopastormr
     - title: linkedin
       url: https://www.linkedin.com/in/albertopastormr/
-    - title: envelope
-      url: mailto:albertopastormr@gmail.com
     - title: instagram
-      url: https://www.instagram.com/pastoreo11/
+      url: https://www.instagram.com/albertopastormr/
 
 - name: Ivan Fermena
   pic: 2
@@ -50,12 +52,10 @@ people:
 social:
   - title: twitter
     url: https://twitter.com/scidataucm
-  - title: facebook
-    url: 
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: instagram
+    url: https://www.instagram.com/scidataucm/
+  - title: envelope
+    url: mailto:scidataucm@gmail.com
   - title: github
     url: https://github.com/SciDataUCM
 
