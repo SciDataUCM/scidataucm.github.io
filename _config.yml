@@ -17,14 +17,12 @@ people:
       url: https://albertopastormr.me
     - title: envelope
       url: mailto:albertopastormr@gmail.com
-    - title: twitter
-      url: https://twitter.com/albertopastormr
+    #- title: twitter url: https://twitter.com/albertopastormr
     - title: github
       url: https://github.com/albertopastormr
     - title: linkedin
       url: https://www.linkedin.com/in/albertopastormr/
-    - title: instagram
-      url: https://www.instagram.com/albertopastormr/
+    #- title: instagram url: https://www.instagram.com/albertopastormr/
 
 - name: Ivan Fermena
   pic: 2
