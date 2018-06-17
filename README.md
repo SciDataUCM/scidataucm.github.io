@@ -20,7 +20,7 @@ Images are in '/img/portfolio'
 
 To add a new project you have to add new Markdown file at '/_posts' with the following name structure: `YYYY-MM-DD-title`
 
-### _Founders_ section
+### _Team_ section
 
 Team members information is at '_config.yml'
 
