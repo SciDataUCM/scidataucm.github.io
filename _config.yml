@@ -35,17 +35,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/ivanfermena/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: https://twitter.com/
-    - title: github
-      url: https://github.com/
-    - title: linkedin
-      url: https://www.linkedin.com/in/
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
