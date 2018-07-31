@@ -30,10 +30,38 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/ivanf3rmena
+    - title: envelope
+      url: mailto:ivanfermena@gmail.com
     - title: github
       url: https://github.com/ivanfermena
     - title: linkedin
       url: https://www.linkedin.com/in/ivanfermena/
+
+- name: Manuel Monforte
+  pic: 3
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: https://twitter.com/manumonforte6
+    - title: envelope
+      url: mailto:abc@gmail.com
+    - title: github
+      url: https://github.com/manumonforte
+    - title: linkedin
+      url: https://www.linkedin.com/in/manuel-monforte-escobar-a58b69166/
+
+- name: Gerardo Parra
+  pic: 4
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: https://twitter.com/gp_rossignoli
+    - title: envelope
+      url: mailto:abc@gmail.com
+    - title: github
+      url: https://github.com/gprossignoli
+    - title: linkedin
+      url: https://www.linkedin.com/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
