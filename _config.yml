@@ -1,8 +1,8 @@
-url: https://scidataucm.github.io
+url: "https://scidataucm.github.io"
 baseurl: "https://scidataucm.github.io"
 
 # Site settings
-title: SciDataUCM
+title: SciDataUCMUpdate co
 email: scidata@ucm.es
 description: "Computer Science university students organization with a passion for data science"
 
