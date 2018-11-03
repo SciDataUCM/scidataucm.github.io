@@ -73,6 +73,8 @@ social:
     url: mailto:scidata@ucm.es
   - title: github
     url: https://github.com/SciDataUCM
+  - title: meetup
+    url: https://www.meetup.com/es-ES/SciDataUCM/
 
 # Postal address (add as many lines as necessary)
 address:
