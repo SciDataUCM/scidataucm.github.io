@@ -73,8 +73,8 @@ social:
     url: mailto:scidata@ucm.es
   - title: github
     url: https://github.com/SciDataUCM
-  - title: meetup
-    url: https://www.meetup.com/es-ES/SciDataUCM/
+  #- title: meetup
+   # url: https://www.meetup.com/es-ES/SciDataUCM/
   - title: linkedin
     url: https://www.linkedin.com/company/scidataucm/
 
